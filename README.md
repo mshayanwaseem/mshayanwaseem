@@ -168,7 +168,7 @@ These are not aspirations. These are directions I am actively working toward:
 
 If you are working on something interesting or want to connect, reach out.
 
-[![Email](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayanwaseemkhilji@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=80&section=footer" width="100%"/>
 
